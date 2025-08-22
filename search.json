@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Skip to content\n\n\n\n\n\nBusiness & Finance\nFinancial Modeling (WACC, NPV/IRR) Strategic Planning & KPIs Project Management (Agile/Waterfall)\n\n\nTechnology\nTableau Power BI Excel (Power Query) Quarto GitHub Pages Jira Confluence\n\n\nCertifications\n\nCertified Digital Marketing Associate (2025)\nLinkedIn Learning — Finance Essentials (2025)\nGoogle Project Management (2025)\n\n\n\nLanguages\n\nSpanish (Native)\nEnglish (Fluent)"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection",
+    "section": "",
+    "text": "Skip to content"
+  },
+  {
+    "objectID": "reflection.html#why-i-built-a-multi-page-portfolio",
+    "href": "reflection.html#why-i-built-a-multi-page-portfolio",
+    "title": "Reflection",
+    "section": "Why I built a multi-page portfolio",
+    "text": "Why I built a multi-page portfolio\nSwitching to multiple pages meant that I had to define which of the audiences was incidental and which was core. Home provides a rapid summary of my identity Quantified results are given in the resum Projects explicate context &gt; path &gt; results with artifacts. The Observable Skills and Leadership round off the circle of credibility. This is an organization that can be read easily and recruiters can skip to what they are seeking."
+  },
+  {
+    "objectID": "reflection.html#working-with-llms-what-helped-what-didnt",
+    "href": "reflection.html#working-with-llms-what-helped-what-didnt",
+    "title": "Reflection",
+    "section": "Working with LLMs — what helped, what didn’t",
+    "text": "Working with LLMs — what helped, what didn’t\nHelpful\nBrainstorming structure. I drew outline sketches of pages on an LLM and alternative heading on the LLM. It avoided the blank-page phenomenon and brought out choices that I could either embrace or discard or improvise. Micro-edits. When my bullet sounded vague I requested two tighter rewrit 1s using my own figures. That retained the voice mine plus tightened phrasing Table bullet translation equipped with All I did with Projects was to paste something rough and request a Context / Problem / Approach / Outcome rewrite, which I then edited line-by-line.\nNot helpful Generic language. It is not uncommon that drafts appear as boilerplate of corporate speak I edit what I would not write face-to-face. Unsupported claims. Where it was unclear whether a draft implied an impact that I could not definitively prove, I deleted, or placed a clear assumption note."
+  },
+  {
+    "objectID": "reflection.html#ensuring-authenticity-accuracy",
+    "href": "reflection.html#ensuring-authenticity-accuracy",
+    "title": "Reflection",
+    "section": "Ensuring authenticity & accuracy",
+    "text": "Ensuring authenticity & accuracy\nAll information is real, based on my entire professional experience, studies, projects, and achievements. Everything has been my own work, whether individually or collectively.\nI highlighted the most relevant metrics in each experience, given that, based on what I learned in class, these metrics help company recruiters stand out on resumes.\nEach assignment highlighted what I’ve done on my own terms and what I gained from the LLMs, which is very basic. Therefore, if I want to get good grades, I must apply everything I learned in class, adjusting it to my personal and professional profile."
+  },
+  {
+    "objectID": "reflection.html#accessibility-usability-choices",
+    "href": "reflection.html#accessibility-usability-choices",
+    "title": "Reflection",
+    "section": "Accessibility & usability choices",
+    "text": "Accessibility & usability choices\nConsistent page layout + short headings Button labels that state the action (e.g., View Summary, Open PDF) Right-side TOC on long pages for quick scanning Alt text on the headshot and icons with text equivalents for links"
+  },
+  {
+    "objectID": "reflection.html#what-changed-single-page---multi-page",
+    "href": "reflection.html#what-changed-single-page---multi-page",
+    "title": "Reflection",
+    "section": "What changed (single page - multi page)",
+    "text": "What changed (single page - multi page)\nClarity. Each page has a distinct job; content feels lighter and more scannable. Navigation. Recruiters can land on Resume or Projects directly instead of scrolling. Maintenance. I can add a project without breaking the rest of the page."
+  },
+  {
+    "objectID": "reflection.html#what-id-improve-next",
+    "href": "reflection.html#what-id-improve-next",
+    "title": "Reflection",
+    "section": "What I’d improve next",
+    "text": "What I’d improve next\nInclude at least one live demonstration (e.g. interactive KPI dashboard) in addition to PDFs. Filter in any placeholders and add lasting artifacts and include a brief 30-second Loom on each project explaining choices and trade-offs. Do a final check through action verbs + numbers in all the bullets."
+  },
+  {
+    "objectID": "reflection.html#closing",
+    "href": "reflection.html#closing",
+    "title": "Reflection",
+    "section": "Closing",
+    "text": "Closing\nThis is a deliberately evidence driven and voice congruent portfolio. LMs assistance has helped me get moving and tighten things up but decisions, numbers and artifacts are my own. If an interviewing manager presses any button, they will be able to see the work I can justify and elaborate."
+  },
+  {
+    "objectID": "LLMS.html",
+    "href": "LLMS.html",
+    "title": "Appendix — LLM Drafts & Annotations",
+    "section": "",
+    "text": "Skip to content"
+  },
+  {
+    "objectID": "LLMS.html#site-map-final",
+    "href": "LLMS.html#site-map-final",
+    "title": "Appendix — LLM Drafts & Annotations",
+    "section": "Site Map (final)",
+    "text": "Site Map (final)\n\nHome / Profile — summary + contact\nResume — quantified results\nProjects — 4 case studies with artifacts\nSkills & Certifications\nLeadership & Community\nReflection (this page is referenced in the assignment)\nAppendix (this page)"
+  },
+  {
+    "objectID": "LLMS.html#drafts-prompts-with-my-revisions",
+    "href": "LLMS.html#drafts-prompts-with-my-revisions",
+    "title": "Appendix — LLM Drafts & Annotations",
+    "section": "Drafts & prompts (with my revisions)",
+    "text": "Drafts & prompts (with my revisions)\n\nHome / Profile\n???+ note “LLM prompt & draft (Home) — collapsed” [LLM] Prompt I used Create a concise hero section for an MBA candidate in insurance with 10+ years leadership.      Return name, one-line role, and three calls to action (email, LinkedIn, résumé). [LLM] Draft &gt; Juan Camilo Rodriguez — MBA Candidate · Insurance Leader · Digital Strategist\n&gt; Buttons: Email · LinkedIn · Download Résumé\n[ME] Rationale: I kept the structure but rewrote the subtitle and verified links.\n\n\n\nProjects — Loblaw Financial Ratio Analysis\n[SOURCE] Summary PDF → downloads/loblaw-summary.pdf\n[ME] Metric notes: 12 WACC sensitivity runs; 3 capital-structure options w/ risk notes.\n???+ tip “LLM prompt & draft (Loblaw) — collapsed” [LLM] Prompt Rewrite these notes into Context/Problem/Approach/Outcome:     - peer benchmarking dashboard     - WACC + sensitivity     - capital structure options [LLM] Draft - Context: MBA analysis project… - Problem: Identify key margin drivers… - Approach: Built WACC model… - Outcome: Recommended capital structure options…\n[EDITED] What I changed: tightened the outcome, added actual numbers, removed generic claims.\n\n\n\nProjects — Netflix Advertising Strategy (AI in Business)\n[SOURCE] Case study PDF → downloads/netflix-case.pdf\n???+ example “LLM prompt & draft (Netflix) — collapsed” [LLM] Prompt Draft a clean case-study paragraph using my points:     - segmentation + creative testing     - ethics / brand safety     - APA-cited market data     - experimentation roadmap [LLM] Draft &gt; Proposed a segmentation and creative testing plan…\n[EDITED] What I changed: aligned voice to resume, kept APA note, added my decision criteria.\n\n\n\nLeadership — Recommendation letter\n[SOURCE] Leadership letter (PDF) → downloads/recommendation-leadership.pdf\n[ME] Note: I excerpt the professor’s key sentence on Leadership page and link the full letter here."
+  },
+  {
+    "objectID": "LLMS.html#change-log-high-level",
+    "href": "LLMS.html#change-log-high-level",
+    "title": "Appendix — LLM Drafts & Annotations",
+    "section": "Change log (high level)",
+    "text": "Change log (high level)\n\n\n\n\n\n\n\n\nDate\nPage\nChange\n\n\n\n\n2025-03-XX\nProjects\nReplaced placeholders with PDFs; added “Impact Metrics” callout\n\n\n2025-03-XX\nResume\nFinal pass on quantified bullets\n\n\n2025-03-XX\nReflection\nAdded 350+ word reflection on LLM usage & authenticity\n\n\n2025-03-XX\nAppendix\nTagged LLM vs. ME content and sources"
+  },
+  {
+    "objectID": "LLMS.html#sources-apa-style",
+    "href": "LLMS.html#sources-apa-style",
+    "title": "Appendix — LLM Drafts & Annotations",
+    "section": "Sources & APA style",
+    "text": "Sources & APA style\n\nFor market facts, I cite APA on the Projects page within the case study.\n\nAny direct quotes from reports are put in quotation marks with an APA reference.\n\nAll metrics without public sources come from my work files ([SOURCE] links)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Profile",
+    "section": "",
+    "text": "Skip to content\n\n\n\n\n\n\n\n\nJuan Camilo Rodriguez\n\n\nMBA Candidate · Insurance Leader · Digital Strategist\n\n\n Email  LinkedIn  Download Resume\n\n\n\nWelcome to my site!\nI am a results-driven MBA candidate with 10+ years in leadership, customer service, and financial management. I drive sales growth, exceed customer service indicators, and enhance customer retention strategies. I manage loyalty programs and insurance portfolios, deliver tailored solutions, and collaborate with stakeholders to optimize operations. I’m proficient with QuickBooks and strategic planning focused on business impact, customer satisfaction, and efficiency.\n\n Education\nMaster of Business Administration (MBA)\nUniversity Canada West — Vancouver, Canada\nExpected 2025\nStrategic Business Management (Postgraduate)\nUniversidad Sergio Arboleda, Bogotá, Colombia (2013)\nB.Sc. Industrial Engineering\nUniversidad Sergio Arboleda, Bogotá, Colombia (2007)"
+  },
+  {
+    "objectID": "leadership.html",
+    "href": "leadership.html",
+    "title": "Leadership & Community",
+    "section": "",
+    "text": "Skip to content"
+  },
+  {
+    "objectID": "leadership.html#leadership-highlights",
+    "href": "leadership.html#leadership-highlights",
+    "title": "Leadership & Community",
+    "section": "Leadership Highlights",
+    "text": "Leadership Highlights\n\n\n\nTeam Lead — CMPT Digital Transformation Simulation (2025)\n\nLed a 7-member cross-functional team for a 4-week strategic study (Nike chatbot).\nPlanned and tracked work in Jira; maintained documentation in Confluence; aligned process models to BPMN.\nRan stand-ups, clarified roles/RACI, and negotiated scope to keep deliverables rubric-compliant and on time.\nFacilitated stakeholder readouts; captured risks, mitigations, and next-step actions.\n\n\n\nVolunteer — Community Financial Literacy (2024–2025)\n\nDesigned step-by-step budgeting templates and workshop materials for newcomers.\nFacilitated sessions focused on cashflow, debt reduction, and saving habits; collected feedback to iterate content.\nBuilt a short playbook (agenda, slides, worksheets) other volunteers can reuse.\n\n\n\nLeadership Skills (selected)\nTeam Leadership Stakeholder Communication Agile / Jira Process Modeling (BPMN) Coaching & Facilitation Multicultural Collaboration\n\n\n\n\n\n\n\n\nRecognition — Faculty Recommendation\n\n\n\nYour Leadership professor selected you to lead a team of 7 peers for the capstone study and praised your flexibility and positive responses to challenges.\nView Full Letter (PDF)\nReference: Leadership course recommendation letter, Jun 25, 2025. :contentReferenceoaicite:0"
+  },
+  {
+    "objectID": "leadership.html#evidence-artifacts",
+    "href": "leadership.html#evidence-artifacts",
+    "title": "Leadership & Community",
+    "section": "Evidence & Artifacts",
+    "text": "Evidence & Artifacts\n\nProcess & Delivery\n\nBPMN model + Confluence summary (PNG) Open PNG\nJira board snapshot (PDF) Open PDF\n\nCommunity\n\nWorkshop slide deck (Excel) Download XLSX\nBudgeting template (Excel) Download XLSX"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Juan Camilo Rodriguez — MBA Portfolio",
+    "section": "",
+    "text": "Skip to content"
+  },
+  {
+    "objectID": "projects.html#top",
+    "href": "projects.html#top",
+    "title": "Juan Camilo Rodriguez — MBA Portfolio",
+    "section": "Project Details",
+    "text": "Project Details\n\nLoblaw Financial Ratio Analysis\n\n\n\n\n\n\nNote\n\n\n\nDate: May 2025\nRole: Analyst (MBA)\nTools: Excel, Power BI\n\n\nContext. Course/company, role, timeframe.\nProblem. Briefly state the business issue.\nApproach. Peer benchmarking dashboard; WACC with sensitivity; scenario recommendations.\nOutcome. Quantified findings (margin drivers, capital-structure options).\n\nView Summary Back to Top\n\n\n\n\nNetflix Advertising Strategy (AI in Business)\n\n\n\n\n\n\nNote\n\n\n\nDate: July 2025\nRole: Strategist (MBA)\nInputs: APA-cited market data; experimentation roadmap\n\n\nContext. Advertising strategy for streaming growth.\nApproach. Segmentation, creative testing, safety guardrails (brand/ethics), experimentation plan.\nOutcome. KPIs and decision framework for rollout.\n\nCase Study Back to Top\n\n\n\n\nNike AI Chatbot — Order Inquiry Resolution\n\n\n\n\n\n\nNote\n\n\n\nDate: Aug 2025\nRole: PM / Analyst\nMethods: BPMN, Jira, AHT & CSAT measurement\n\n\nContext. Improve customer inquiry resolution.\nApproach. BPMN-aligned workflow; Jira implementation; evaluation plan; governance & risk controls.\nOutcome. Expected AHT↓, CSAT↑; artifacts ready for scale.\n\nWorkflow Back to Top"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Skip to content"
+  },
+  {
+    "objectID": "resume.html#professional-highlights",
+    "href": "resume.html#professional-highlights",
+    "title": "Resume",
+    "section": " Professional Highlights",
+    "text": "Professional Highlights\n\nLoyalty Coordinator – Keralty EPS Sanitas (2020–2024)\n\n\n\nDrove $46,000+ in annual sales growth by expanding membership in the Premium Plan in Colombia.\nExceeded KPIs by 110% via strategic planning and customer engagement initiatives.\nDesigned and implemented customer retention strategies for Premium Plan members.\nTrained 20+ leaders and 300 employees on loyalty programs, products, and benefits.\nCollaborated with 25+ partners to enhance loyalty benefits for 100,000 customers; managed $1M/year in digital strategies to promote health product sales.\n\n\n\n\n\n\n\n\n Key Metrics\n\n\n\n\n+$46,000 annual sales\n\n110% KPI attainment\n\n100k customers reached\n\n$1M/yr digital budget\n\n20+ leaders • 300 staff trained\n\n\n\n\n\n\n\nInsurance Manager – Insurance Risk Company (2019–2024)\n\n\n\nGuided clients to tailored insurance solutions across multiple Colombian insurers.\nManaged 1,000+ customer accounts (life, health, auto, home).\nProspected and sold insurance products through clear coverage/benefit positioning.\nAchieved 95% average customer satisfaction; 30% YoY sales growth.\n\n\n\n\n\n\n\n\n Key Metrics\n\n\n\n\n1,000+ accounts managed\n\n95% CSAT average\n\n30% YoY sales growth\n\n\n\n\n\n\n\nInsurance Senior Rep – GM Financial Colombia (2015–2019)\n\n\n\nManaged portfolio of 42,000+ auto credit life policies and 56,000+ credit life policies.\nGenerated &gt;$6.5M in annual commissions.\nBuilt dealer training, new insurance products, and incentive plans.\n\n\n\n\n\n\n\n\n Key Metrics\n\n\n\n\n42k+ auto credit life policies\n\n56k+ credit life policies\n\n&gt;$6.5M annual commissions\n\n\n\n\n\n\n\nCorporate Analyst – Nueva EPS (2011–2015)\n\n\n\nRebuilt business approaches and broker relationships (AON, Willis, Delima).\nLed product development and mass communication initiatives.\n\n\n\n\n\n\n\n\n Highlights\n\n\n\n\nPartnerships with major brokers\n\nLed multi-channel comms & product workstreams"
+  }
+]
