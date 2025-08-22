@@ -1,0 +1,59 @@
+---
+title: "Leadership & Community"
+---
+
+## Leadership Highlights
+
+::: {.columns}
+::: {.column width="58%"}
+
+### Team Lead — CMPT Digital Transformation Simulation (2025)
+- Led a **7-member** cross-functional team for a **4-week** strategic study (Nike chatbot).
+- Planned and tracked work in **Jira**; maintained documentation in **Confluence**; aligned process models to **BPMN**.
+- Ran stand-ups, clarified roles/RACI, and negotiated scope to keep deliverables **rubric-compliant and on time**.
+- Facilitated stakeholder readouts; captured risks, mitigations, and next-step actions.
+
+### Volunteer — Community Financial Literacy (2024–2025)
+- Designed **step-by-step budgeting templates** and workshop materials for newcomers.
+- Facilitated sessions focused on **cashflow**, **debt reduction**, and **saving habits**; collected feedback to iterate content.
+- Built a short **playbook** (agenda, slides, worksheets) other volunteers can reuse.
+
+### Leadership Skills (selected)
+<span class="badge-skill">Team Leadership</span>
+<span class="badge-skill">Stakeholder Communication</span>
+<span class="badge-skill">Agile / Jira</span>
+<span class="badge-skill">Process Modeling (BPMN)</span>
+<span class="badge-skill">Coaching & Facilitation</span>
+<span class="badge-skill">Multicultural Collaboration</span>
+
+:::
+::: {.column width="42%"}
+
+::: {.callout-note}
+#### Recognition — Faculty Recommendation
+Your Leadership professor selected you to **lead a team of 7 peers** for the capstone study and praised your *flexibility* and *positive responses to challenges*.  
+[View Full Letter (PDF)](downloads/Leadership_Recommendation_JuanCamilo.pdf){.btn .btn-light .btn-sm target="_blank"}
+
+*Reference: Leadership course recommendation letter, Jun 25, 2025.* :contentReference[oaicite:0]{index=0}
+:::
+
+:::
+:::
+
+---
+
+## Evidence & Artifacts
+
+- **Process & Delivery**
+  - BPMN model + Confluence summary *(PNG)*
+    <a class="btn btn-outline-light btn-sm" href="downloads/nike-ai-chatbot-workflow.png" target="_blank" rel="noopener">Open PNG</a>
+
+  - Jira board snapshot *(PDF)*
+    <a class="btn btn-outline-light btn-sm" href="downloads/jira-board-snapshot.pdf" target="_blank" rel="noopener">Open PDF</a>
+
+- **Community**
+  - Workshop slide deck *(Excel)*
+    <a class="btn btn-light btn-sm" href="downloads/financial-literacy-workshop.xlsx" target="_blank" rel="noopener">Download XLSX</a>
+
+  - Budgeting template *(Excel)*
+    <a class="btn btn-light btn-sm" href="downloads/budget-template.xlsx" download>Download XLSX</a>

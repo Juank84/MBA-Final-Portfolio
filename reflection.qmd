@@ -1,0 +1,54 @@
+---
+title: "Reflection"
+toc: true
+toc-location: right
+---
+
+## Why I built a multi-page portfolio
+
+Switching to multiple pages meant that I had to define which of the audiences was incidental and which was core. Home provides a rapid summary of my identity Quantified results are given in the resum Projects explicate context > path > results with artifacts. The Observable Skills and Leadership round off the circle of credibility. This is an organization that can be read easily and recruiters can skip to what they are seeking.
+
+## Working with LLMs — what helped, what didn’t
+
+Helpful
+
+Brainstorming structure. I drew outline sketches of pages on an LLM and alternative heading on the LLM. It avoided the blank-page phenomenon and brought out choices that I could either embrace or discard or improvise.
+Micro-edits. When my bullet sounded vague I requested two tighter rewrit 1s using my own figures. That retained the voice mine plus tightened phrasing
+Table bullet translation equipped with All I did with Projects was to paste something rough and request a *Context / Problem / Approach / Outcome* rewrite, which I then edited line-by-line.
+
+
+Not helpful
+Generic language. It is not uncommon that drafts appear as boilerplate of corporate speak I edit what I would not write face-to-face.
+Unsupported claims. Where it was unclear whether a draft implied an impact that I could not definitively prove, I deleted, or placed a clear assumption note.
+
+
+## Ensuring authenticity & accuracy
+
+All information is real, based on my entire professional experience, studies, projects, and achievements. Everything has been my own work, whether individually or collectively.
+
+I highlighted the most relevant metrics in each experience, given that, based on what I learned in class, these metrics help company recruiters stand out on resumes.
+
+Each assignment highlighted what I've done on my own terms and what I gained from the LLMs, which is very basic. Therefore, if I want to get good grades, I must apply everything I learned in class, adjusting it to my personal and professional profile.
+
+## Accessibility & usability choices
+
+Consistent page layout + short headings
+Button labels that state the action (e.g., *View Summary*, *Open PDF*)
+Right-side TOC on long pages for quick scanning
+Alt text on the headshot and icons with text equivalents for links
+
+## What changed (single page - multi page)
+
+Clarity. Each page has a distinct job; content feels lighter and more scannable.
+Navigation. Recruiters can land on Resume or Projects directly instead of scrolling.
+Maintenance. I can add a project without breaking the rest of the page.
+
+## What I’d improve next
+
+Include at least one live demonstration (e.g. interactive KPI dashboard) in addition to PDFs.
+Filter in any placeholders and add lasting artifacts and include a brief 30-second Loom on each project explaining choices and trade-offs.
+Do a final check through action verbs + numbers in all the bullets.
+
+## Closing
+
+This is a deliberately evidence driven and voice congruent portfolio. LMs assistance has helped me get moving and tighten things up but decisions, numbers and artifacts are my own. If an interviewing manager presses any button, they will be able to see the work I can justify and elaborate.

@@ -1,0 +1,108 @@
+---
+title: "Appendix — LLM Drafts & Annotations"
+toc: true
+toc-location: right
+---
+
+> **Annotation Key**
+> - **[ME]** = written by me  
+> - **[LLM]** = initial draft from an LLM  
+> - **[EDITED]** = my edits to an LLM draft  
+> - **[SOURCE]** = link to artifact (deck, PDF, BPMN, sheet)
+
+## Site Map (final)
+
+- Home / Profile — summary + contact
+- Resume — quantified results
+- Projects — 4 case studies with artifacts
+- Skills & Certifications
+- Leadership & Community
+- Reflection *(this page is referenced in the assignment)*
+- Appendix *(this page)*
+
+---
+
+## Drafts & prompts (with my revisions)
+
+### Home / Profile
+
+???+ note "LLM prompt & draft (Home) — collapsed"
+    **[LLM] Prompt I used**
+    ```
+    Create a concise hero section for an MBA candidate in insurance with 10+ years leadership. 
+    Return name, one-line role, and three calls to action (email, LinkedIn, résumé).
+    ```
+    **[LLM] Draft**
+    > Juan Camilo Rodriguez — MBA Candidate · Insurance Leader · Digital Strategist  
+    > Buttons: Email · LinkedIn · Download Résumé
+
+**[ME] Rationale:** I kept the structure but rewrote the subtitle and verified links.
+
+---
+
+### Projects — Loblaw Financial Ratio Analysis
+
+**[SOURCE]** Summary PDF → `downloads/loblaw-summary.pdf`  
+**[ME] Metric notes:** 12 WACC sensitivity runs; 3 capital-structure options w/ risk notes.
+
+???+ tip "LLM prompt & draft (Loblaw) — collapsed"
+    **[LLM] Prompt**
+    ```
+    Rewrite these notes into Context/Problem/Approach/Outcome:
+    - peer benchmarking dashboard
+    - WACC + sensitivity
+    - capital structure options
+    ```
+    **[LLM] Draft**
+    - **Context:** MBA analysis project...
+    - **Problem:** Identify key margin drivers...
+    - **Approach:** Built WACC model...
+    - **Outcome:** Recommended capital structure options...
+
+**[EDITED] What I changed:** tightened the outcome, added actual numbers, removed generic claims.
+
+---
+
+### Projects — Netflix Advertising Strategy (AI in Business)
+
+**[SOURCE]** Case study PDF → `downloads/netflix-case.pdf`  
+
+???+ example "LLM prompt & draft (Netflix) — collapsed"
+    **[LLM] Prompt**
+    ```
+    Draft a clean case-study paragraph using my points:
+    - segmentation + creative testing
+    - ethics / brand safety
+    - APA-cited market data
+    - experimentation roadmap
+    ```
+    **[LLM] Draft**
+    > Proposed a segmentation and creative testing plan...
+
+**[EDITED] What I changed:** aligned voice to resume, kept APA note, added my decision criteria.
+
+---
+
+### Leadership — Recommendation letter
+
+**[SOURCE]** Leadership letter (PDF) → `downloads/recommendation-leadership.pdf`  
+**[ME] Note:** I excerpt the professor’s key sentence on Leadership page and link the full letter here.
+
+---
+
+## Change log (high level)
+
+| Date | Page | Change |
+|---|---|---|
+| 2025-03-XX | Projects | Replaced placeholders with PDFs; added “Impact Metrics” callout |
+| 2025-03-XX | Resume | Final pass on quantified bullets |
+| 2025-03-XX | Reflection | Added 350+ word reflection on LLM usage & authenticity |
+| 2025-03-XX | Appendix | Tagged LLM vs. ME content and sources |
+
+---
+
+## Sources & APA style
+
+- For market facts, I cite APA on the **Projects** page within the case study.  
+- Any direct quotes from reports are put in quotation marks with an APA reference.  
+- All metrics without public sources come from my work files (**[SOURCE]** links).

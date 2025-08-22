@@ -1,0 +1,51 @@
+/* Center content and control line length */
+.page-content .content { max-width: 1000px; margin: 0 auto; }
+
+/* Hero */
+.hero-name { font-weight: 800; letter-spacing: .3px; font-size: 2.25rem; }
+.hero-role { font-size: 1.05rem; opacity: .9; }
+.hero-cta .btn { margin-right: .5rem; margin-bottom: .25rem; }
+img[alt~="Juan"][alt~="Rodriguez"] { box-shadow: 0 12px 28px rgba(0,0,0,.25); }
+
+/* Left rail layout (Projects) */
+.with-rail { display: grid; grid-template-columns: 160px 1fr; gap: 2rem; }
+.rail {
+  position: sticky; top: 6rem;
+  font-size: 2rem; font-weight: 800; opacity: .15; letter-spacing: .5px;
+  text-transform: uppercase;
+}
+
+/* Timeline */
+.timeline { border-left: 2px solid rgba(255,255,255,.18); padding-left: 1.25rem; margin-top: .25rem; }
+.timeline .item { position: relative; margin-bottom: 1.25rem; }
+.timeline .item::before {
+  content: ""; position: absolute; left: -11px; top: .6rem;
+  width: 10px; height: 10px; border-radius: 50%; background: #fff; opacity: .8;
+}
+.timeline .meta { display:inline-block; font-size: .9rem; opacity:.7; margin-bottom: .2rem; }
+.timeline h4 { margin: .1rem 0 .35rem; font-weight: 800; }
+
+/* Skills badges */
+.badge-skill {
+  border: 1px solid rgba(255,255,255,.25);
+  padding: .45rem .65rem; border-radius: .6rem; display: inline-block;
+  margin: .25rem .35rem .25rem 0; font-size: .9rem;
+}
+
+/* Contact form (kept for future use) */
+.contact-form .form-control { background: rgba(255,255,255,.06); color: #fff; border-color: rgba(255,255,255,.18); }
+.contact-form .form-control::placeholder { color: rgba(255,255,255,.55); }
+.contact-form .form-label { font-weight: 600; }
+
+/* Cards & lists */
+.card.bg-dark { background: rgba(255,255,255,.06)!important; border-radius: .8rem; }
+.card h6 { font-weight: 800; letter-spacing: .2px; }
+ul { margin-bottom: 0.5rem; }
+
+/* Resume layout polish */
+.columns { gap: 1.25rem; }
+.callout { border-radius: .8rem; }
+.callout h4, .callout h5, .callout h6 { margin-top: .1rem; margin-bottom: .5rem; font-weight: 800; }
+
+/* leadership card polish */
+.callout { border-radius: .8rem; }

@@ -1,0 +1,53 @@
+## Project Details {#top}
+
+### Loblaw Financial Ratio Analysis {#loblaw #loblaw-detail}
+::: {.callout-note}
+**Date:** May 2025  
+**Role:** Analyst (MBA)  
+**Tools:** Excel, Power BI  
+:::
+**Context.** Course/company, role, timeframe.  
+**Problem.** Briefly state the business issue.  
+**Approach.** Peer benchmarking dashboard; WACC with sensitivity; scenario recommendations.  
+**Outcome.** Quantified findings (margin drivers, capital-structure options).
+
+<div class="mb-2">
+  <a class="btn btn-light btn-sm" href="downloads/loblaw-summary.pdf" target="_blank" rel="noopener">View Summary</a>
+  <a class="btn btn-outline-light btn-sm" href="#top">Back to Top</a>
+</div>
+
+---
+
+### Netflix Advertising Strategy (AI in Business) {#netflix #netflix-detail}
+::: {.callout-note}
+**Date:** July 2025  
+**Role:** Strategist (MBA)  
+**Inputs:** APA-cited market data; experimentation roadmap  
+:::
+**Context.** Advertising strategy for streaming growth.  
+**Approach.** Segmentation, creative testing, safety guardrails (brand/ethics), experimentation plan.  
+**Outcome.** KPIs and decision framework for rollout.
+
+<div class="mb-2">
+  <a class="btn btn-light btn-sm" href="downloads/netflix-case-study.pdf" target="_blank" rel="noopener">Case Study</a>
+  <a class="btn btn-outline-light btn-sm" href="#top">Back to Top</a>
+</div>
+
+---
+
+### Nike AI Chatbot — Order Inquiry Resolution {#nike #nike-detail}
+::: {.callout-note}
+**Date:** Aug 2025  
+**Role:** PM / Analyst  
+**Methods:** BPMN, Jira, AHT & CSAT measurement  
+:::
+**Context.** Improve customer inquiry resolution.  
+**Approach.** BPMN-aligned workflow; Jira implementation; evaluation plan; governance & risk controls.  
+**Outcome.** Expected AHT↓, CSAT↑; artifacts ready for scale.
+
+<div class="mb-2">
+  <a class="btn btn-light btn-sm" href="downloads/nike-workflow.pdf" target="_blank" rel="noopener">Workflow</a>
+  <a class="btn btn-outline-light btn-sm" href="#top">Back to Top</a>
+</div>
+
+---

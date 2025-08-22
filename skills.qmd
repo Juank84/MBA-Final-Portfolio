@@ -1,0 +1,26 @@
+---
+title: "Skills & Certifications"
+---
+
+### Business & Finance
+<span class="badge-skill">Financial Modeling (WACC, NPV/IRR)</span>
+<span class="badge-skill">Strategic Planning & KPIs</span>
+<span class="badge-skill">Project Management (Agile/Waterfall)</span>
+
+### Technology
+<span class="badge-skill">Tableau</span>
+<span class="badge-skill">Power BI</span>
+<span class="badge-skill">Excel (Power Query)</span>
+<span class="badge-skill">Quarto</span>
+<span class="badge-skill">GitHub Pages</span>
+<span class="badge-skill">Jira</span>
+<span class="badge-skill">Confluence</span>
+
+### Certifications
+- Certified Digital Marketing Associate (2025)
+- LinkedIn Learning — Finance Essentials (2025)
+- Google Project Management (2025)
+
+### Languages
+- Spanish (Native)
+- English (Fluent)

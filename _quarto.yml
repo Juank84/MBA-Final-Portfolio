@@ -1,0 +1,34 @@
+include-before-body:
+  text: '<a class="visually-hidden-focusable" href="#quarto-content">Skip to content</a>'
+
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Juan Camilo Rodriguez — MBA Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: resume.qmd
+        text: Resume
+      - href: projects.qmd
+        text: Projects
+      - href: skills.qmd
+        text: Skills
+      - href: leadership.qmd
+        text: Leadership
+  page-footer:
+    left: "© {{< meta year >}} Juan Camilo Rodriguez"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme:
+      - superhero
+      - theme.scss
+    css: styles.css
+
+metadata-files:
+  - site_meta.yml

@@ -1,0 +1,41 @@
+---
+title: "Profile"
+---
+
+<div class="text-center my-4">
+  <img src="images/foto.jpg" alt="Juan Camilo Rodriguez" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; border: 3px solid #fff;" />
+</div>
+
+<h1 class="hero-name text-center">Juan Camilo Rodriguez</h1>
+<p class="hero-role text-center">MBA Candidate · Insurance Leader · Digital Strategist</p>
+
+
+<div class="hero-cta text-center mb-3">
+  <a class="btn btn-light btn-sm" href="mailto:juancamilo.rodriguezgarzon@gmail.com"><i class="bi bi-envelope-at"></i> Email</a>
+  <a class="btn btn-outline-light btn-sm" href="https://linkedin.com/in/juan-camilo-rodriguez-garzon-1b180796" target="_blank"><i class="bi bi-linkedin"></i> LinkedIn</a>
+  <a class="btn btn-outline-light btn-sm" href="downloads/JuanCamilo_Resume.pdf" target="_blank"><i class="bi bi-file-earmark-pdf"></i> Download Resume</a>
+</div>
+
+<hr class="mb-4 opacity-25" />
+
+---
+
+Welcome to my site!
+
+I am a results-driven MBA candidate with 10+ years in leadership, customer service, and financial management. I drive sales growth, exceed customer service indicators, and enhance customer retention strategies. I manage loyalty programs and insurance portfolios, deliver tailored solutions, and collaborate with stakeholders to optimize operations. I’m proficient with QuickBooks and strategic planning focused on business impact, customer satisfaction, and efficiency.
+
+### <i class="bi bi-backpack"></i> Education
+
+**Master of Business Administration (MBA)**  
+University Canada West — Vancouver, Canada  
+_Expected 2025_
+
+**Strategic Business Management (Postgraduate)**  
+Universidad Sergio Arboleda, Bogotá, Colombia (2013)
+
+**B.Sc. Industrial Engineering**  
+Universidad Sergio Arboleda, Bogotá, Colombia (2007)
+
+
+
+<hr class="mb-4 opacity-25" />

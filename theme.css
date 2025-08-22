@@ -1,0 +1,12 @@
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Poppins:wght@700;800&display=swap');
+
+/* Bootstrap overrides layered on top of superhero */
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial !default;
+$headings-font-family: "Poppins", $font-family-sans-serif !default;
+$headings-font-weight: 800 !default;
+
+$link-color: #a9d2ff;
+$btn-border-radius: .65rem;
+$btn-padding-y: .45rem;
+$btn-padding-x: .9rem;

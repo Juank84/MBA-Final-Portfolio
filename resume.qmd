@@ -1,0 +1,80 @@
+---
+title: "Resume"
+---
+
+## <i class="bi bi-briefcase-fill"></i> Professional Highlights
+
+### Loyalty Coordinator – Keralty EPS Sanitas (2020–2024)
+
+::: {.columns}
+::: {.column width="58%"}
+- Drove **$46,000+** in annual sales growth by expanding membership in the Premium Plan in Colombia.
+- Exceeded KPIs by **110%** via strategic planning and customer engagement initiatives.
+- Designed and implemented customer retention strategies for Premium Plan members.
+- Trained **20+ leaders** and **300 employees** on loyalty programs, products, and benefits.
+- Collaborated with **25+ partners** to enhance loyalty benefits for **100,000** customers; managed **$1M/year** in digital strategies to promote health product sales.
+:::
+::: {.column width="42%"}
+::: {.callout-note}
+#### <i class="bi bi-graph-up-arrow"></i> Key Metrics
+- **+$46,000** annual sales  
+- **110%** KPI attainment  
+- **100k** customers reached  
+- **$1M/yr** digital budget  
+- **20+** leaders • **300** staff trained
+:::
+:::
+:::
+
+### Insurance Manager – Insurance Risk Company (2019–2024)
+
+::: {.columns}
+::: {.column width="58%"}
+- Guided clients to tailored insurance solutions across multiple Colombian insurers.
+- Managed **1,000+** customer accounts (life, health, auto, home).
+- Prospected and sold insurance products through clear coverage/benefit positioning.
+- Achieved **95%** average customer satisfaction; **30% YoY** sales growth.
+:::
+::: {.column width="42%"}
+::: {.callout-note}
+#### <i class="bi bi-speedometer2"></i> Key Metrics
+- **1,000+** accounts managed  
+- **95%** CSAT average  
+- **30% YoY** sales growth
+:::
+:::
+:::
+
+### Insurance Senior Rep – GM Financial Colombia (2015–2019)
+
+::: {.columns}
+::: {.column width="58%"}
+- Managed portfolio of **42,000+** auto credit life policies and **56,000+** credit life policies.
+- Generated **>$6.5M** in annual commissions.
+- Built dealer training, new insurance products, and incentive plans.
+:::
+::: {.column width="42%"}
+::: {.callout-note}
+#### <i class="bi bi-briefcase"></i> Key Metrics
+- **42k+** auto credit life policies  
+- **56k+** credit life policies  
+- **>$6.5M** annual commissions
+:::
+:::
+:::
+
+### Corporate Analyst – Nueva EPS (2011–2015)
+
+::: {.columns}
+::: {.column width="58%"}
+- Rebuilt business approaches and broker relationships (AON, Willis, Delima).
+- Led product development and mass communication initiatives.
+:::
+::: {.column width="42%"}
+::: {.callout-note}
+#### <i class="bi bi-clipboard-check"></i> Highlights
+- Partnerships with major brokers  
+- Led multi-channel comms & product workstreams
+:::
+:::
+:::
