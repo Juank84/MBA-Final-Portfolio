@@ -17,7 +17,7 @@ website:
       - href: leadership.qmd
         text: Leadership
   page-footer:
-    left: "© {{< meta year >}} Juan Camilo Rodriguez"
+    left: "<span id='y'></span> Juan Camilo Rodriguez"
     right: "Built with Quarto"
 
 format:
@@ -29,4 +29,10 @@ format:
     include-in-header:
       text: |
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
-    css: styles.css
+    include-after-body:
+      text: |
+        <script>
+          // writes: © 2025 (current year)
+          const y = document.getElementById('y');
+          if (y) y.textContent = '© ' + new Date().getFullYear();
+        </script>
